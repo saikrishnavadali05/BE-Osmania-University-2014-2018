@@ -3,13 +3,15 @@ My Bachelor of Engineering (BE) in Computer Science and Engineering (CSE) - enti
 
 # Courses
 
-### 4th year : 
+### 4th year first sem (4-1): 
 1. Mobile Computing
 2. Principles and Applications of Embedded Systems
 3. Distributed Systems
 4. Artificial Intelligence
 5. Information Security
-6. Entrepreneurship
-7. Disaster Management and Mitigation
-8. Data Mining
-9. Main Project
+
+### 4th year second sem (4-2):
+7. Entrepreneurship
+8. Disaster Management and Mitigation
+9. Data Mining
+10. Main Project
